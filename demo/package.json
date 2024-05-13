@@ -1,0 +1,11 @@
+{
+  "name": "@ybui/demo",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "dependencies": {
+    "@ybui/ui": "workspace:^"
+  },
+  "devDependencies": {}
+}
