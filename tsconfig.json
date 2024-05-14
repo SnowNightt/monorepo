@@ -13,6 +13,7 @@
   "references": [
     // 聚合 ts project
     { "path": "./tsconfig.src.json" },
-    { "path": "./tsconfig.node.json" }
+    { "path": "./tsconfig.node.json" },
+    { "path": "./tsconfig.eslint.json" }
   ]
 }
